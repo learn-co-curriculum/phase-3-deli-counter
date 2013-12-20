@@ -1,3 +1,8 @@
+---
+  tags: methods
+  languages: ruby
+---
+
 # Deli Counter - Take a Number
 
 You need to program the "Take a Number" feature for a deli. At the start, the deli is empty and is represented by an empty array.
