@@ -1,5 +1,5 @@
 ---
-  tags: methods, todo
+  tags: methods
   languages: ruby
 ---
 
