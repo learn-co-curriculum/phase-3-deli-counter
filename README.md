@@ -1,7 +1,7 @@
 ---
   tags: methods, arrays, iteration
   languages: ruby
-resources: 1
+  resources: 1
 ---
 
 # Deli Counter - Take a Number
