@@ -1,6 +1,7 @@
 ---
   tags: methods, arrays, iteration
   languages: ruby
+  resources: 1
 ---
 
 # Deli Counter - Take a Number
@@ -47,3 +48,5 @@ Example usage:
 
   line(katz_deli) #=> "The line is currently: 1. Kent 2. Matz"
   ```
+## Resources
+* [Programming Ruby 1.9](http://books.flatironschool.com/books/11) - [Implementing Iterators](http://books.flatironschool.com/books/11), page 71
