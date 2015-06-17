@@ -1,12 +1,8 @@
----
-  tags: methods, arrays, iteration
-  languages: ruby
-  resources: 1
----
-
 # Deli Counter - Take a Number
 
-### Skills: Methods, Arrays
+## Objectives
+1. Practice building methods that use iteration and controlling their return values
+2. Practice manipulating arrays (adding elements, removing elements, etc.)
 
 ## Instructions
 
@@ -21,7 +17,7 @@ Write all of your code in deli_counter.rb
 
 1. Build a method that a new customer will use when entering the deli. The method, `take_a_number`, should accept the current line of people, `katz_deli`, along with the new person's name, and tell them their position in line. And don't go being too programmer-y and give them their index. These are normal people. If they are 7th in line, tell them that. Don't get their hopes up by telling them they are number 6 in line.
 
-2. Build a method `now_serving`. This method should call out (via `puts`) the next person in line and then remove them from the line. If there is nobody in line, it should say that "There is nobody waiting to be served!"
+2. Build a method `now_serving`. This method should call out (via `puts`) the next person in line and then remove them from the front. If there is nobody in line, it should say that "There is nobody waiting to be served!"
 
 3. Build a method `line` that shows people their current place in line. If there is nobody in line, it should say "The line is currently empty."
 
@@ -49,3 +45,4 @@ Example usage:
   line(katz_deli) #=> "The line is currently: 1. Kent 2. Matz"
   ```
 
+  * *Hint*: Refer to the [lab on array manipulation](https://github.com/learn-co-curriculum/intro-to-simple-array-manipulations) to brush up on adding elements to and removing them from arrays and the [lab](https://github.com/learn-co-curriculum/badges-and-schedules) just prior to this one to refresh your memory about iterating with index numbers. 
