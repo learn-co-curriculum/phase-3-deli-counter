@@ -45,4 +45,4 @@ Example usage:
   line(katz_deli) #=> "The line is currently: 1. Kent 2. Matz"
   ```
 
-  * *Hint*: Refer to the [lab on array manipulation](https://github.com/learn-co-curriculum/intro-to-simple-array-manipulations) to brush up on adding elements to and removing them from arrays and the [lab](https://github.com/learn-co-curriculum/badges-and-schedules) just prior to this one to refresh your memory about iterating with index numbers. 
+  * *Hint*: Refer to the [lab on array manipulation](https://github.com/learn-co-students/intro-to-simple-array-manipulations-000) to brush up on adding elements to and removing them from arrays and the [lab](https://github.com/learn-co-students/badges-and-schedules-000) just prior to this one to refresh your memory about iterating with index numbers. 
