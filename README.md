@@ -44,4 +44,4 @@ Example usage:
   line(katz_deli) #=> "The line is currently: 1. Kent 2. Matz"
   ```
 
-**Hint:** *Refer to the lab "Intro to Simple Array Manipulations" to review adding and removing elements from an array. Also, refer to the previous lab "Badges and Schedules" to refresh your memory about iterating with index numbers.*
+**Hint:** *Review adding and removing elements from an array as well as iterating with index numbrs. This will help you solve the lab. 
