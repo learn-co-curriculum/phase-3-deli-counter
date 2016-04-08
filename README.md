@@ -27,9 +27,9 @@ Example usage:
   ```ruby
   katz_deli = []
 
-  take_a_number(katz_deli, "Ada") #=> 1
-  take_a_number(katz_deli, "Grace") #=> 2
-  take_a_number(katz_deli, "Kent") #=> 3
+  take_a_number(katz_deli, "Ada") #=> Welcome, Ada. You are number 1 in line.
+  take_a_number(katz_deli, "Grace") #=> Welcome, Grace. You are number 2 in line.
+  take_a_number(katz_deli, "Kent") #=> Welcome, Kent. You are number 3 in line.
 
   line(katz_deli) #=> "The line is currently: 1. Ada 2. Grace 3. Kent"
 
@@ -37,7 +37,7 @@ Example usage:
 
   line(katz_deli) #=> "The line is currently: 1. Grace 2. Kent"
 
-  take_a_number(katz_deli, "Matz") #=> 3
+  take_a_number(katz_deli, "Matz") #=> Welcome, Matz. You are number 3 in line.
 
   line(katz_deli) #=> "The line is currently: 1. Grace 2. Kent 3. Matz"
 
@@ -45,7 +45,7 @@ Example usage:
 
   line(katz_deli) #=> "The line is currently: 1. Kent 2. Matz"
   ```
-  **Hint:** Review adding and removing elements from an array as well as iterating with index numbers. Also, many of the methods to add and remove elements from an array can also be used to add and remove elements to a string. This will help you solve the lab. 
-  
+  **Hint:** Review adding and removing elements from an array as well as iterating with index numbers. Also, many of the methods to add and remove elements from an array can also be used to add and remove elements to a string. This will help you solve the lab.
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/deli-counter' title='Deli Counter - Take a Number'>Deli Counter - Take a Number</a> on Learn.co and start learning to code for free.</p>
