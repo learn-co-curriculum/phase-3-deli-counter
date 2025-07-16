@@ -11,3 +11,8 @@ def line(deli)
     puts "The line is currently: #{lineup.join(" ")}"
   end
 end
+
+def take_a_number(deli, name)
+  deli.push(name)
+  puts "Welcome, #{name}. You are number #{deli.find_index(name) + 1} in line."
+end
